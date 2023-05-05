@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 350vh;
+}
+.head-container {
+    background-color: black;
+    min-width: 300px;
+    height: 50px;
+}
+.second-container{
+    display: flex;
+    background-color: rgba(199, 194, 194, 0.392);
+    height: 50px;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+.armani-text{
+    font-size: 10px;
+    margin-left: 40px;
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 2px;
+    margin-top: 5px;
+}
+.search-bar{
+    margin-left: 1100px;
+}
+.bag-bar{
+    margin-left: 40px;
+}
+.list-bar{
+    margin-left: 50px;
+}
+.head-text{
+    text-align: center;
+    font-size: 33px;
+    font-family:serif;
+    margin-top: 10px;
+}
+.image-content {
+    margin-left: 150px;
+    margin-top: 18px;
+    margin-right: 10px;
+   
+}
+.sub-content{
+    text-align: center;
+    margin-top: 10px;
+    letter-spacing: 1px;
+   
+}
+.sub-content h2{
+    font-size: 50px;
+    font-weight: ;
+}
+.sub-content h4{
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+.sub-content .btn-1,.btn-2{
+    width: 235px;
+    height: 35px;
+    margin-top: 20px;
+    margin-right: 24px;
+    margin-left: 30px;
+    background-color: rgb(250, 251, 251);
+}
+.img-3{
+    width: 600px;
+}
+.img-4{
+    width: 600px;
+    height: 480px;
+    margin-left: 10px;
+}
+.img-56{
+    width: 1200px;
+    height: 620px;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+.img-7{
+    width: 1218px;
+    margin-left: 45px;
+    height: 900px;
+    margin-top: 20px;
+}
+footer{
+    margin-top: 30px;
+    color: white;
+    background-color: black;
+   min-width: 300px;
+    height: 230px;
+    display: flex;
+    
+    
+}
+.a-tag{
+    margin-top: 30px;
+    margin-left: 70px;
+    font-size: 20px;
+    color: white;
+    
+}
+.footer-h2{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.img-8{
+   width: 1100px;
+   height: 600PX;
+    margin-left: 103px;
+}
+.subscribe{
+    text-align: center;
+  margin-top: 80px;
+   font-size: 11px;
+}
+
+input{
+    margin-top: 25px;
+    width: 250px;
+    height: 40px;
+    border-color: black;
+    border-width: 3px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    
+    font-size: 15px;
+    padding: 10px;
+}
+.sub {
+    width:100px ;
+    height: 38px;
+    background-color: black;
+    color: white;
+}
+.about-company{
+    margin-top: 80px;
+    margin-left: 30px;
+    line-height: 60px;
+    border-style: outset;
+    font-weight:lighter;
+    
+}
